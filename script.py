@@ -67,7 +67,7 @@ vm_payload = {
               }
             ]
           },
-          "disablePasswordAuthentication": true
+          "disablePasswordAuthentication": True
         }
       },
       "networkProfile": {
@@ -75,7 +75,7 @@ vm_payload = {
           {
             "id": "/subscriptions/0c1e4b5e-1263-48f1-b7cf-2a4715eebc20/resourceGroups/lab4/providers/Microsoft.Network/networkInterfaces/nic4",
             "properties": {
-              "primary": true
+              "primary": True
             }
           }
         ]
